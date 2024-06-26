@@ -1,0 +1,9 @@
+.page-header{
+    background-image: 
+        linear-gradient(62deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+        url('https://img.freepik.com/free-photo/closeup-shot-bitcoin-put-black-computer-keyboard_181624-13291.jpg?w=1060&t=st=1687512991~exp=1687513591~hmac=e03cd19b35a76f47b267c59d8d2ac4c58f37fac50ae424bff23f1308b06d8d8d')
+    ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
