@@ -12,7 +12,7 @@ const Footer = () => {
                 href="#"
                 aria-label="Brand"
               >
-                Dev-connect
+                SoftLink
               </a>
             </div>
 

@@ -11,7 +11,7 @@ const Navbar = () => {
                 className="block text-2xl font-semibold text-emerald-700"
                 to="/"
               >
-                Dev-connect
+                SoftLink
               </Link>
             </div>
 
