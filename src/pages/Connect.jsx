@@ -81,9 +81,9 @@ const Connect = () => {
             })}
             onSubmit={(values, { setSubmitting, resetForm }) => {
               setTimeout(() => {
-                const serviceID = "service_3apxmfr";
-                const templateID = "template_sjawiia";
-                const publicKey = "YH5nQ7dKEyX0V8pZ6";
+                const serviceID = "service_8knuv7s";
+                const templateID = "template_llbabce";
+                const publicKey = "JvExBNFgrWcV9p5pR";
                 emailjs
                   .send(serviceID, templateID, values, publicKey)
                   .then(() => {
@@ -147,9 +147,9 @@ const Connect = () => {
             })}
             onSubmit={(values, { setSubmitting, resetForm }) => {
               setTimeout(() => {
-                const serviceID = "service_3apxmfr";
-                const templateID = "template_sjawiia";
-                const publicKey = "YH5nQ7dKEyX0V8pZ6";
+               const serviceID = "service_8knuv7s";
+                const templateID = "template_llbabce";
+                const publicKey = "JvExBNFgrWcV9p5pR";
                 emailjs
                   .send(serviceID, templateID, values, publicKey)
                   .then(() => {
@@ -225,9 +225,9 @@ const Connect = () => {
             })}
             onSubmit={(values, { setSubmitting, resetForm }) => {
               setTimeout(() => {
-                const serviceID = "service_3apxmfr";
-                const templateID = "template_sjawiia";
-                const publicKey = "YH5nQ7dKEyX0V8pZ6";
+                const serviceID = "service_8knuv7s";
+                const templateID = "template_llbabce";
+                const publicKey = "JvExBNFgrWcV9p5pR";
                 emailjs
                   .send(serviceID, templateID, values, publicKey)
                   .then(() => {
